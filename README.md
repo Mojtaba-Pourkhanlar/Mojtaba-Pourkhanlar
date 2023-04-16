@@ -1,3 +1,2 @@
-## Hi there 👋
-### Welcome to my page😎✌🙏,
+## Hi there 👋, welcome to my page😎✌🙏.
 
