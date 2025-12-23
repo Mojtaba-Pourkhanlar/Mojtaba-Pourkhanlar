@@ -1,12 +1,8 @@
-
 # 👋 Hi, I'm Mojtaba Pourkhanlar
 
-<p align="center">
+<p align="left">
   <a href="https://mojtabapourkhanlar.ir" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mojtaba-pourkhanlar-778370251" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -17,16 +13,17 @@
 I'm a **Frontend Developer** focused on building modern, scalable, and high-performance web applications using **React.js** and **Next.js**.  
 I care deeply about clean architecture, maintainable code, and great user experience.
 
-- ⚛️ React.js & Next.js specialist  
-- 🧠 Strong JavaScript fundamentals  
-- 🎯 Performance & clean code mindset  
-- 🌍 Open to remote opportunities  
+- ⚛️ React.js & Next.js specialist
+- 🧠 Strong JavaScript fundamentals
+- 🎯 Performance & clean code mindset
+- 🌍 Open to remote opportunities
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 💻 Frontend
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
@@ -40,7 +37,6 @@ I care deeply about clean architecture, maintainable code, and great user experi
 
 ## 📫 Contact Me
 
-- 🌐 Portfolio: https://mojtabapourkhanlar.ir  
-- 💼 LinkedIn: https://www.linkedin.com/in/mojtaba-pourkhanlar-778370251  
-- 📧 Email: mojtabapourkhanlar@gmail.com  
-
+- 🌐 Portfolio: https://mojtabapourkhanlar.ir
+- 💼 LinkedIn: https://www.linkedin.com/in/mojtaba-pourkhanlar-778370251
+- 📧 Email: mojtabapourkhanlar@gmail.com
