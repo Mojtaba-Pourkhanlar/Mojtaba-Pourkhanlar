@@ -38,30 +38,6 @@ I care deeply about clean architecture, maintainable code, and great user experi
 
 ---
 
-## ⭐ Featured Projects
-
-### 🔐 Authentication with Firebase
-🔗 https://github.com/Mojtaba-Pourkhanlar/Authentication_FireBase  
-Firebase authentication system with a clean and minimal UI
-
-### 💱 Currency Project
-🔗 https://github.com/Mojtaba-Pourkhanlar/Currency_Project  
-Currency converter app using external APIs and state management
-
-### 🧩 JavaScript Challenges
-🔗 https://github.com/Mojtaba-Pourkhanlar/jschallenger  
-A collection of JavaScript challenges to strengthen problem-solving skills
-
-<!-- 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mojtaba-Pourkhanlar&show_icons=true&theme=dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mojtaba-Pourkhanlar&layout=compact&theme=dark" />
-</p> -->
-
----
-
 ## 📫 Contact Me
 
 - 🌐 Portfolio: https://mojtabapourkhanlar.ir  
