@@ -1,4 +1,4 @@
-#  Hi👋, I'm Mojtaba Pourkhanlar😎
+# Hi👋, I'm Mojtaba Pourkhanlar😎
 
 <p align="left">
   <a href="https://mojtabapourkhanlar.ir" target="_blank">
@@ -22,16 +22,181 @@ I care deeply about clean architecture, maintainable code, and great user experi
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend
+<div align="left">
+    <table>
+      <tr>
+        <th>Stack</th>
+        <th>Languages & Libraries</th>
+      </tr>
+      <tr>
+        <td>Frontend</td>
+        <td>
+          <img
+            src="./icons/skills/frontend/js.svg"
+            alt="javascript"
+            title="JavaScript"
+            width="22"
+            height="22"
+          />
+          <img
+            src="./icons/skills/frontend/ts.svg"
+            alt="typescript"
+            title="TypeScript"
+            width="22"
+            height="22"
+          />
+          <img
+            src="./icons/skills/frontend/react.svg"
+            alt="react"
+            title="React.js"
+            width="22"
+            height="22"
+          />
+          <img
+            src="./icons/skills/frontend/next.svg"
+            alt="nextjs"
+            title="Next.js"
+            width="22"
+            height="22"
+          />
+          <img
+            src="./icons/skills/frontend/html.svg"
+            alt="html5"
+            title="HTML 5"
+            width="22"
+            height="22"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td>State Management</td>
+        <td>
+          <img
+            src="./icons/skills/frontend/redux.svg"
+            alt="redux"
+            title="Redux.js"
+            width="22"
+            height="22"
+          />
+          <img
+            src="./icons/skills/frontend/rocket.svg"
+            alt="reactquery"
+            title="React Query"
+            width="30"
+            height="22"
+          />
+          <span style="width: 25px; height: 25px; margin:0 0 5px 0px;" title="Zustand">🐻</span>
+        </td>
+      </tr>
+      <tr>
+        <td>Styling</td>
+        <td>
+          <img
+            src="./icons/skills/frontend/css.svg"
+            alt="css3"
+            title="CSS 3"
+            width="22"
+            height="22"
+          />
+          <img
+            src="./icons/skills/frontend/tailwindcss.svg"
+            alt="tailwindcss"
+            title="TailwindCss"
+            width="22"
+            height="22"
+          />
+          <img
+            src="./icons/skills/frontend/mui.svg"
+            alt="Material UI"
+            title="Material UI"
+            width="22"
+            height="22"
+          />
+          <img
+            src="./icons/skills/frontend/shadcn.svg"
+            alt="shadcnui"
+            title="ShadcnUi"
+            width="22"
+            height="22"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td>GIS & Mapping</td>
+        <td>
+          <img
+            src="./icons/skills/frontend/openlayers.svg"
+            alt="openlayers"
+            title="openlayers"
+            width="22"
+            height="22"
+          />
+          <img
+            src="./icons/skills/frontend/mapbox.svg"
+            alt="mapbox"
+            title="mapbox"
+            width="30"
+            height="22"
+          />
+          <img
+            src="./icons/skills/frontend/leaflet.svg"
+            alt="leaflet"
+            title="leaflet"
+            width="30"
+            height="22"
+          />
+          <img
+            src="./icons/skills/frontend/threed.svg"
+            alt="threed"
+            title="threed"
+            width="30"
+            height="22"
+          />
+        </td>
+      </tr>
+      <tr>
+        <td>Tools</td>
+        <td>
+          <img
+            src="./icons/skills/tools/git.svg"
+            alt="git"
+            title="Git"
+            width="22"
+            height="22"
+          />
+          <img
+            src="./icons/skills/tools/vitest.svg"
+            alt="vitest"
+            title="vitest"
+            width="22"
+            height="22"
+          />
+          <img
+            src="./icons/skills/tools/figma.svg"
+            alt="figma"
+            title="figma"
+            width="22"
+            height="20"
+          />
+          <img
+            src="./icons/skills/tools/pwa.svg"
+            alt="pwa"
+            title="pwa"
+            width="35"
+            height="25"
+          />
+          <img
+            src="./icons/skills/frontend/seo.svg"
+            alt="seo"
+            title="seo"
+            width="35"
+            height="25"
+          />
+        </td>
+      </tr>
+    </table>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/React-000000?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat&logo=css3)
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat&logo=tailwindcss)
-![MUI](https://img.shields.io/badge/MUI-000000?style=flat&logo=mui)
+</div>
 
 ---
 
