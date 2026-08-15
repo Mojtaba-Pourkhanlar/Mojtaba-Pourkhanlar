@@ -198,25 +198,25 @@ UI Engineering          →   Responsive, accessible & reusable interfaces
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>✅ Planyco</h3>
-      <p>
-        A responsive productivity application for organizing daily, monthly,
-        and yearly goals with priorities, progress tracking, themes, and
-        multilingual support.
-      </p>
-      <p>
-        <code>Next.js</code>
-        <code>TypeScript</code>
-        <code>Tailwind CSS</code>
-      </p>
-      <a href="https://planyco.ir">
-        Live App ↗
-      </a>
-      &nbsp;·&nbsp;
-      <a href="https://mojtabapourkhanlar.ir/en/portfolio/projects/planyco/">
-        Case Study ↗
-      </a>
-    </td>
+  <h3>🧊 Ray3D</h3>
+  <p>
+    An interactive 3D modeling platform for generating, managing, analyzing,
+    and editing high-precision 3D models directly in the browser.
+  </p>
+  <p>
+    <code>React</code>
+    <code>TypeScript</code>
+    <code>Three.js</code>
+    <code>Zustand</code>
+  </p>
+  <a href="https://raymand.net">
+    Live App ↗
+  </a>
+  &nbsp;·&nbsp;
+  <a href="https://mojtabapourkhanlar.ir/en/portfolio/projects/ray3d/">
+    Case Study ↗
+  </a>
+</td>
   </tr>
 </table>
 
