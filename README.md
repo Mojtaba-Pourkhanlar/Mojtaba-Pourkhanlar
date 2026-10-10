@@ -31,75 +31,76 @@
 
 ## 🧰 Tech Stack
 
-<div align="center">
-  <table>
-    <thead>
-      <tr>
-        <th align="left">Category</th>
-        <th align="left">Technologies</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td><strong>Frontend Development</strong></td>
-        <td>
-          <img src="./icons/skills/frontend/js.svg" alt="JavaScript" title="JavaScript" height="28" />
-          &nbsp;
-          <img src="./icons/skills/frontend/ts.svg" alt="TypeScript" title="TypeScript" height="28" />
-          &nbsp;
-          <img src="./icons/skills/frontend/react.svg" alt="React" title="React.js" height="28" />
-          &nbsp;
-          <img src="./icons/skills/frontend/next.svg" alt="Next.js" title="Next.js" height="28" />
-          &nbsp;
-          <img src="./icons/skills/frontend/html.svg" alt="HTML5" title="HTML5" height="28" />
-        </td>
-      </tr>
-      <tr>
-        <td><strong>State Management</strong></td>
-        <td>
-          <img src="./icons/skills/frontend/redux.svg" alt="Redux" title="Redux" height="28" />
-          &nbsp;
-          <img src="./icons/skills/frontend/react-query.svg" alt="TanStack Query" title="TanStack Query (React Query)" height="28" />
-        </td>
-      </tr>
-      <tr>
-        <td><strong>UI & Styling</strong></td>
-        <td>
-          <img src="./icons/skills/frontend/css.svg" alt="CSS3" title="CSS3" height="28" />
-          &nbsp;
-          <img src="./icons/skills/frontend/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" height="28" />
-          &nbsp;
-          <img src="./icons/skills/frontend/mui.svg" alt="Material UI" title="Material UI" height="28" />
-          &nbsp;
-          <img src="./icons/skills/frontend/shadcn.svg" alt="shadcn/ui" title="shadcn/ui" height="28" />
-        </td>
-      </tr>
-      <tr>
-        <td><strong>GIS & Mapping</strong></td>
-        <td>
-          <img src="./icons/skills/frontend/openlayers.svg" alt="OpenLayers" title="OpenLayers" height="28" />
-          &nbsp;
-          <img src="./icons/skills/frontend/mapbox.svg" alt="Mapbox" title="Mapbox" height="28" />
-          &nbsp;
-          <img src="./icons/skills/frontend/leaflet.svg" alt="Leaflet" title="Leaflet" height="28" />
-          &nbsp;
-          <img src="./icons/skills/frontend/threed.svg" alt="3D" title="3D Mapping" height="28" />
-        </td>
-      </tr>
-      <tr>
-        <td><strong>Tools & Quality</strong></td>
-        <td>
-          <img src="./icons/skills/tools/git.svg" alt="Git" title="Git" height="28" />
-          &nbsp;
-          <img src="./icons/skills/tools/vitest.svg" alt="Vitest" title="Vitest" height="28" />
-          &nbsp;
-          <img src="./icons/skills/tools/figma.svg" alt="Figma" title="Figma" height="28" />
-          &nbsp;
-          <img src="./icons/skills/tools/pwa.svg" alt="PWA" title="Progressive Web Apps" height="28" />
-          &nbsp;
-          <img src="./icons/skills/frontend/seo.svg" alt="SEO" title="SEO" height="28" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+<p>
+  <strong>Core Frontend</strong>
+</p>
+
+<p>
+  <img src="./icons/skills/frontend/js.svg" alt="JavaScript" title="JavaScript" width="30" height="30" />
+  &nbsp;
+  <img src="./icons/skills/frontend/ts.svg" alt="TypeScript" title="TypeScript" width="30" height="30" />
+  &nbsp;
+  <img src="./icons/skills/frontend/react.svg" alt="React.js" title="React.js" width="30" height="30" />
+  &nbsp;
+  <img src="./icons/skills/frontend/next.svg" alt="Next.js" title="Next.js" width="30" height="30" />
+  &nbsp;
+  <img src="./icons/skills/frontend/html.svg" alt="HTML5" title="HTML5" width="30" height="30" />
+</p>
+
+<p>
+  <strong>State & Data Management</strong>
+</p>
+
+<p>
+  <img src="./icons/skills/frontend/redux.svg" alt="Redux Toolkit" title="Redux Toolkit" width="30" height="30" />
+  &nbsp;
+  <img src="./icons/skills/frontend/react-query.svg" alt="TanStack Query" title="TanStack Query" width="38" height="30" />
+  &nbsp;
+  <img src="./icons/skills/frontend/zustand.svg" alt="Zustand" title="Zustand Query" width="38" height="30" />
+</p>
+
+<p>
+  <strong>UI & Styling</strong>
+</p>
+
+<p>
+  <img src="./icons/skills/frontend/css.svg" alt="CSS3" title="CSS3" width="30" height="30" />
+  &nbsp;
+  <img src="./icons/skills/frontend/tailwindcss.svg" alt="Tailwind CSS" title="Tailwind CSS" width="30" height="30" />
+  &nbsp;
+  <img src="./icons/skills/frontend/mui.svg" alt="Material UI" title="Material UI" width="30" height="30" />
+  &nbsp;
+  <img src="./icons/skills/frontend/shadcn.svg" alt="shadcn/ui" title="shadcn/ui" width="30" height="30" />
+</p>
+
+<p>
+  <strong>GIS, Maps & 3D</strong>
+</p>
+
+<p>
+  <img src="./icons/skills/frontend/openlayers.svg" alt="OpenLayers" title="OpenLayers" width="30" height="30" />
+  &nbsp;
+  <img src="./icons/skills/frontend/mapbox.svg" alt="Mapbox" title="Mapbox" width="38" height="30" />
+  &nbsp;
+  <img src="./icons/skills/frontend/leaflet.svg" alt="Leaflet" title="Leaflet" width="38" height="30" />
+  &nbsp;
+  <img src="./icons/skills/frontend/threed.svg" alt="Three.js" title="Three.js" width="38" height="30" />
+</p>
+
+<p>
+  <strong>Engineering & Tools</strong>
+</p>
+
+<p>
+  <img src="./icons/skills/tools/git.svg" alt="Git" title="Git" width="30" height="30" />
+  &nbsp;
+  <img src="./icons/skills/tools/vitest.svg" alt="Vitest" title="Vitest" width="30" height="30" />
+  &nbsp;
+  <img src="./icons/skills/tools/figma.svg" alt="Figma" title="Figma" width="30" height="30" />
+  &nbsp;
+  <img src="./icons/skills/tools/pwa.svg" alt="PWA" title="Progressive Web Apps" width="42" height="30" />
+  &nbsp;
+  <img src="./icons/skills/frontend/seo.svg" alt="SEO" title="SEO" width="42" height="30" />
+</p>
+
+---
