@@ -36,4 +36,4 @@
   <img alt="chart" src="https://shieldcn.dev/chart/github/commits/Mojtaba-Pourkhanlar.svg?bg=transparent&amp;border=false&amp;logo=false&amp;width=1030&amp;title=Total+Activity&amp;icon=github" />
 </p>
 
-[![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami)
+<!-- [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami) -->
