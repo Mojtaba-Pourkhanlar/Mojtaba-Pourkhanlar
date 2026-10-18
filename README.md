@@ -1,6 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=%F0%9F%91%8BHi+There,+I'm+Mojtaba+Pourkhanlar)](https://git.io/typing-svg)
 
-[![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg)](https://github.com/hiradEmami)
+
+---
+
+<!-- 
+![divider_arc_reactor](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle.svg) -->
 
 <!-- Title -->
 <h3 align="center">
@@ -14,11 +18,11 @@
 </p>
 
 <p align="center">
-<a href="https://www.victorstudios.org/en"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/l-site.svg"><img src="assets/l-site.svg" height="34" alt="Website"></picture></a>
-<a href="https://www.linkedin.com/in/72salman/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/l-linkedin.svg"><img src="assets/l-linkedin.svg" height="34" alt="LinkedIn"></picture></a>
+<a href="https://mojtabapourkhanlar.ir/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/l-site.svg"><img src="assets/l-site.svg" height="34" alt="Website"></picture></a>
+<a href="https://www.linkedin.com/in/mojtaba-pourkhanlar-778370251/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/l-linkedin.svg"><img src="assets/l-linkedin.svg" height="34" alt="LinkedIn"></picture></a>
 </p>
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)](https://github.com/hiradEmami)
+![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/unique_effects/divider_cyber_cycle_mirrored.svg)
 
 ### 🧰 Tech Stack
 
@@ -30,7 +34,7 @@
 | GIS, Maps & 3D          | <p align="end"><img src="./icons/skills/frontend/openlayers.svg" alt="OpenLayers" title="OpenLayers" width="30" height="30" />&nbsp;<img src="./icons/skills/frontend/mapbox.svg" alt="Mapbox" title="Mapbox" width="38" height="30" />&nbsp;<img src="./icons/skills/frontend/leaflet.svg" alt="Leaflet" title="Leaflet" width="38" height="30" />&nbsp;<img src="./icons/skills/frontend/threed.svg" alt="Three.js" title="Three.js" width="38" height="30" /></p>                                                                                                                                        |
 | Engineering & Tools     | <p align="end"><img src="./icons/skills/tools/git.svg" alt="Git" title="Git" width="30" height="30" />&nbsp;<img src="./icons/skills/tools/vitest.svg" alt="Vitest" title="Vitest" width="30" height="30" />&nbsp;<img src="./icons/skills/tools/figma.svg" alt="Figma" title="Figma" width="30" height="30" />&nbsp;<img src="./icons/skills/tools/pwa.svg" alt="PWA" title="Progressive Web Apps" width="42" height="30" />&nbsp;<img src="./icons/skills/frontend/seo.svg" alt="SEO" title="SEO" width="42" height="30" /></p>                                                                           |
 
-[![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)](https://github.com/hiradEmami)
+![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)
 
 <p align="center">
   <img alt="chart" src="https://shieldcn.dev/chart/github/commits/Mojtaba-Pourkhanlar.svg?bg=transparent&amp;border=false&amp;logo=false&amp;width=1030&amp;title=Total+Activity&amp;icon=github" />
