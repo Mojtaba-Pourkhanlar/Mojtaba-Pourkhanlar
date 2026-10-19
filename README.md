@@ -34,10 +34,10 @@
 | GIS, Maps & 3D          | <p align="end"><img src="./icons/skills/frontend/openlayers.svg" alt="OpenLayers" title="OpenLayers" width="30" height="30" />&nbsp;<img src="./icons/skills/frontend/mapbox.svg" alt="Mapbox" title="Mapbox" width="38" height="30" />&nbsp;<img src="./icons/skills/frontend/leaflet.svg" alt="Leaflet" title="Leaflet" width="38" height="30" />&nbsp;<img src="./icons/skills/frontend/threed.svg" alt="Three.js" title="Three.js" width="38" height="30" /></p>                                                                                                                                        |
 | Engineering & Tools     | <p align="end"><img src="./icons/skills/tools/git.svg" alt="Git" title="Git" width="30" height="30" />&nbsp;<img src="./icons/skills/tools/vitest.svg" alt="Vitest" title="Vitest" width="30" height="30" />&nbsp;<img src="./icons/skills/tools/figma.svg" alt="Figma" title="Figma" width="30" height="30" />&nbsp;<img src="./icons/skills/tools/pwa.svg" alt="PWA" title="Progressive Web Apps" width="42" height="30" />&nbsp;<img src="./icons/skills/frontend/seo.svg" alt="SEO" title="SEO" width="42" height="30" /></p>                                                                           |
 
-![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg)
+<!-- ![divider_moving_neon_gradient](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_circuit_pulse_bar.svg) -->
 
-<p align="center">
+<!-- <p align="center">
   <img alt="chart" src="https://shieldcn.dev/chart/github/commits/Mojtaba-Pourkhanlar.svg?bg=transparent&amp;border=false&amp;logo=false&amp;width=1030&amp;title=Total+Activity&amp;icon=github" />
-</p>
+</p> -->
 
 <!-- [![divider_twin_serpant](https://raw.githubusercontent.com/HiradEmami/readme-ux-kit/master/assets/dividers/animated/bars/divider_dual_energy_tracks.svg)](https://github.com/hiradEmami) -->
